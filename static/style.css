@@ -1,15 +1,23 @@
-#sentence {
-    font-size: 4em;
+#content {
     font-family: "Lucida Console", "Lucida Sans Typewriter", monaco, "Bitstream Vera Sans Mono", monospace;
     color: black;
-    text-align: center; }
+    text-align: center;
+}
+
+#sentence {
+    font-size: 4em;
+    height: 400px;
+}
 
 a:link {
-    color: black;
-    text-decoration: none;
+    color: black;    
 }
 
 a:visited {
     color: black;
-    text-decoration: none;
 }
+
+#refresh {
+    font-size: 1em:
+}
+    
